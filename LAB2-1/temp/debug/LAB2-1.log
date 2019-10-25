@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\code\lab2-1\source\main.c(16): warning C4013: 'factorial' 未定義; 假設 extern 傳回整數
+c:\code\lab2-1\source\main.c(26): warning C4142: 'factorial': 良性的類型重複定義
+  LAB2-1.vcxproj -> C:\code\LAB2-1\LAB2-1\LAB2-1\..\..\temp\debug\LAB2-1.exe
